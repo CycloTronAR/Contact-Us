@@ -1,0 +1,12 @@
+const Button = (props) => {
+  return (
+
+    const {isoutline, icon, text} = pros;
+
+
+    <button className={/*props*/.isOutline ? styles.outline_btn : styles.primary_btn}>
+      {/*props*/.icon}
+      {/*props*/.text}
+    </button>
+  )
+}

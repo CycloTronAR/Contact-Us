@@ -1,0 +1,15 @@
+.container_section{
+    margin: 0 auto;
+    max-width: 1000px;
+    margin-top: 20px;
+}
+
+.container_section h1{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.container_section p{
+    font-size: 15px;
+    font-weight: 500;
+}
